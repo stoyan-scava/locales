@@ -1,0 +1,582 @@
+{
+  "af-ZA": {
+    "language": "Afrikaans",
+    "country": "South Africa"
+  },
+  "am-ET": {
+    "language": "Amharic",
+    "country": "Ethiopia"
+  },
+  "ar-AE": {
+    "language": "Arabic",
+    "country": "United Arab Emirates"
+  },
+  "ar-BH": {
+    "language": "Arabic",
+    "country": "Bahrain"
+  },
+  "ar-DZ": {
+    "language": "Arabic",
+    "country": "Algeria"
+  },
+  "ar-EG": {
+    "language": "Arabic",
+    "country": "Egypt"
+  },
+  "ar-IL": {
+    "language": "Arabic",
+    "country": "Israel"
+  },
+  "ar-IQ": {
+    "language": "Arabic",
+    "country": "Iraq"
+  },
+  "ar-JO": {
+    "language": "Arabic",
+    "country": "Jordan"
+  },
+  "ar-KW": {
+    "language": "Arabic",
+    "country": "Kuwait"
+  },
+  "ar-LB": {
+    "language": "Arabic",
+    "country": "Lebanon"
+  },
+  "ar-LY": {
+    "language": "Arabic",
+    "country": "Libya"
+  },
+  "ar-MA": {
+    "language": "Arabic",
+    "country": "Morocco"
+  },
+  "ar-OM": {
+    "language": "Arabic",
+    "country": "Oman"
+  },
+  "ar-PS": {
+    "language": "Arabic",
+    "country": "Palestinian Authority"
+  },
+  "ar-QA": {
+    "language": "Arabic",
+    "country": "Qatar"
+  },
+  "ar-SA": {
+    "language": "Arabic",
+    "country": "Saudi Arabia"
+  },
+  "ar-SY": {
+    "language": "Arabic",
+    "country": "Syria"
+  },
+  "ar-TN": {
+    "language": "Arabic",
+    "country": "Tunisia"
+  },
+  "ar-YE": {
+    "language": "Arabic",
+    "country": "Yemen"
+  },
+  "az-AZ": {
+    "language": "Azerbaijani",
+    "country": "Azerbaijan"
+  },
+  "bg-BG": {
+    "language": "Bulgarian",
+    "country": "Bulgaria"
+  },
+  "bn-IN": {
+    "language": "Bengali",
+    "country": "India"
+  },
+  "bs-BA": {
+    "language": "Bosnian",
+    "country": "Bosnia and Herzegovina"
+  },
+  "ca-ES": {
+    "language": "Catalan",
+    "country": "Spain"
+  },
+  "cs-CZ": {
+    "language": "Czech",
+    "country": "Czechia"
+  },
+  "cy-GB": {
+    "language": "Welsh",
+    "country": "United Kingdom"
+  },
+  "da-DK": {
+    "language": "Danish",
+    "country": "Denmark"
+  },
+  "de-AT": {
+    "language": "German",
+    "country": "Austria"
+  },
+  "de-CH": {
+    "language": "German",
+    "country": "Switzerland"
+  },
+  "de-DE": {
+    "language": "German",
+    "country": "Germany"
+  },
+  "de-LI": {
+    "language": "German",
+    "country": "Liechtenstein"
+  },
+  "de-LU": {
+    "language": "German",
+    "country": "Luxembourg"
+  },
+  "el-GR": {
+    "language": "Greek",
+    "country": "Greece"
+  },
+  "en-AU": {
+    "language": "English",
+    "country": "Australia"
+  },
+  "en-CA": {
+    "language": "English",
+    "country": "Canada"
+  },
+  "en-GB": {
+    "language": "English",
+    "country": "United Kingdom"
+  },
+  "en-GH": {
+    "language": "English",
+    "country": "Ghana"
+  },
+  "en-HK": {
+    "language": "English",
+    "country": "Hong Kong SAR"
+  },
+  "en-IE": {
+    "language": "English",
+    "country": "Ireland"
+  },
+  "en-IN": {
+    "language": "English",
+    "country": "India"
+  },
+  "en-KE": {
+    "language": "English",
+    "country": "Kenya"
+  },
+  "en-NG": {
+    "language": "English",
+    "country": "Nigeria"
+  },
+  "en-NZ": {
+    "language": "English",
+    "country": "New Zealand"
+  },
+  "en-PH": {
+    "language": "English",
+    "country": "Philippines"
+  },
+  "en-SG": {
+    "language": "English",
+    "country": "Singapore"
+  },
+  "en-TZ": {
+    "language": "English",
+    "country": "Tanzania"
+  },
+  "en-US": {
+    "language": "English",
+    "country": "United States"
+  },
+  "en-ZA": {
+    "language": "English",
+    "country": "South Africa"
+  },
+  "es-AR": {
+    "language": "Spanish",
+    "country": "Argentina"
+  },
+  "es-BO": {
+    "language": "Spanish",
+    "country": "Bolivia"
+  },
+  "es-CL": {
+    "language": "Spanish",
+    "country": "Chile"
+  },
+  "es-CO": {
+    "language": "Spanish",
+    "country": "Colombia"
+  },
+  "es-CR": {
+    "language": "Spanish",
+    "country": "Costa Rica"
+  },
+  "es-CU": {
+    "language": "Spanish",
+    "country": "Cuba"
+  },
+  "es-DO": {
+    "language": "Spanish",
+    "country": "Dominican Republic"
+  },
+  "es-EC": {
+    "language": "Spanish",
+    "country": "Ecuador"
+  },
+  "es-ES": {
+    "language": "Spanish",
+    "country": "Spain"
+  },
+  "es-GQ": {
+    "language": "Spanish",
+    "country": "Equatorial Guinea"
+  },
+  "es-GT": {
+    "language": "Spanish",
+    "country": "Guatemala"
+  },
+  "es-HN": {
+    "language": "Spanish",
+    "country": "Honduras"
+  },
+  "es-MX": {
+    "language": "Spanish",
+    "country": "Mexico"
+  },
+  "es-NI": {
+    "language": "Spanish",
+    "country": "Nicaragua"
+  },
+  "es-PA": {
+    "language": "Spanish",
+    "country": "Panama"
+  },
+  "es-PE": {
+    "language": "Spanish",
+    "country": "Peru"
+  },
+  "es-PR": {
+    "language": "Spanish",
+    "country": "Puerto Rico"
+  },
+  "es-PY": {
+    "language": "Spanish",
+    "country": "Paraguay"
+  },
+  "es-SV": {
+    "language": "Spanish",
+    "country": "El Salvador"
+  },
+  "es-US": {
+    "language": "Spanish",
+    "country": "United States"
+  },
+  "es-UY": {
+    "language": "Spanish",
+    "country": "Uruguay"
+  },
+  "es-VE": {
+    "language": "Spanish",
+    "country": "Venezuela"
+  },
+  "et-EE": {
+    "language": "Estonian",
+    "country": "Estonia"
+  },
+  "eu-ES": {
+    "language": "Basque",
+    "country": "Spain"
+  },
+  "fa-IR": {
+    "language": "Persian",
+    "country": "Iran"
+  },
+  "fi-FI": {
+    "language": "Finnish",
+    "country": "Finland"
+  },
+  "fil-PH": {
+    "language": "Filipino",
+    "country": "Philippines"
+  },
+  "fr-BE": {
+    "language": "French",
+    "country": "Belgium"
+  },
+  "fr-CA": {
+    "language": "French",
+    "country": "Canada"
+  },
+  "fr-CH": {
+    "language": "French",
+    "country": "Switzerland"
+  },
+  "fr-FR": {
+    "language": "French",
+    "country": "France"
+  },
+  "ga-IE": {
+    "language": "Irish",
+    "country": "Ireland"
+  },
+  "gl-ES": {
+    "language": "Galician",
+    "country": "Spain"
+  },
+  "gu-IN": {
+    "language": "Gujarati",
+    "country": "India"
+  },
+  "he-IL": {
+    "language": "Hebrew",
+    "country": "Israel"
+  },
+  "hi-IN": {
+    "language": "Hindi",
+    "country": "India"
+  },
+  "hr-HR": {
+    "language": "Croatian",
+    "country": "Croatia"
+  },
+  "hu-HU": {
+    "language": "Hungarian",
+    "country": "Hungary"
+  },
+  "hy-AM": {
+    "language": "Armenian",
+    "country": "Armenia"
+  },
+  "id-ID": {
+    "language": "Indonesian",
+    "country": "Indonesia"
+  },
+  "is-IS": {
+    "language": "Icelandic",
+    "country": "Iceland"
+  },
+  "it-CH": {
+    "language": "Italian",
+    "country": "Switzerland"
+  },
+  "it-IT": {
+    "language": "Italian",
+    "country": "Italy"
+  },
+  "ja-JP": {
+    "language": "Japanese",
+    "country": "Japan"
+  },
+  "jv-ID": {
+    "language": "Javanese",
+    "country": "Indonesia"
+  },
+  "ka-GE": {
+    "language": "Georgian",
+    "country": "Georgia"
+  },
+  "kk-KZ": {
+    "language": "Kazakh",
+    "country": "Kazakhstan"
+  },
+  "km-KH": {
+    "language": "Khmer",
+    "country": "Cambodia"
+  },
+  "kn-IN": {
+    "language": "Kannada",
+    "country": "India"
+  },
+  "ko-KR": {
+    "language": "Korean",
+    "country": "South Korea"
+  },
+  "lo-LA": {
+    "language": "Lao",
+    "country": "Laos"
+  },
+  "lt-LT": {
+    "language": "Lithuanian",
+    "country": "Lithuania"
+  },
+  "lv-LV": {
+    "language": "Latvian",
+    "country": "Latvia"
+  },
+  "mk-MK": {
+    "language": "Macedonian",
+    "country": "North Macedonia"
+  },
+  "ml-IN": {
+    "language": "Malayalam",
+    "country": "India"
+  },
+  "mn-MN": {
+    "language": "Mongolian",
+    "country": "Mongolia"
+  },
+  "mr-IN": {
+    "language": "Marathi",
+    "country": "India"
+  },
+  "ms-MY": {
+    "language": "Malay",
+    "country": "Malaysia"
+  },
+  "mt-MT": {
+    "language": "Maltese",
+    "country": "Malta"
+  },
+  "my-MM": {
+    "language": "Burmese",
+    "country": "Myanmar"
+  },
+  "nb-NO": {
+    "language": "Norwegian Bokmål",
+    "country": "Norway"
+  },
+  "ne-NP": {
+    "language": "Nepali",
+    "country": "Nepal"
+  },
+  "nl-BE": {
+    "language": "Dutch",
+    "country": "Belgium"
+  },
+  "nl-NL": {
+    "language": "Dutch",
+    "country": "Netherlands"
+  },
+  "pa-IN": {
+    "language": "Punjabi",
+    "country": "India"
+  },
+  "pl-PL": {
+    "language": "Polish",
+    "country": "Poland"
+  },
+  "ps-AF": {
+    "language": "Pashto",
+    "country": "Afghanistan"
+  },
+  "pt-BR": {
+    "language": "Portuguese",
+    "country": "Brazil"
+  },
+  "pt-PT": {
+    "language": "Portuguese",
+    "country": "Portugal"
+  },
+  "ro-RO": {
+    "language": "Romanian",
+    "country": "Romania"
+  },
+  "ru-RU": {
+    "language": "Russian",
+    "country": "Russia"
+  },
+  "si-LK": {
+    "language": "Sinhala",
+    "country": "Sri Lanka"
+  },
+  "sk-SK": {
+    "language": "Slovak",
+    "country": "Slovakia"
+  },
+  "sl-SI": {
+    "language": "Slovenian",
+    "country": "Slovenia"
+  },
+  "so-SO": {
+    "language": "Somali",
+    "country": "Somalia"
+  },
+  "sq-AL": {
+    "language": "Albanian",
+    "country": "Albania"
+  },
+  "sr-RS": {
+    "language": "Serbian",
+    "country": "Serbia"
+  },
+  "sv-SE": {
+    "language": "Swedish",
+    "country": "Sweden"
+  },
+  "sw-KE": {
+    "language": "Swahili",
+    "country": "Kenya"
+  },
+  "sw-TZ": {
+    "language": "Swahili",
+    "country": "Tanzania"
+  },
+  "ta-IN": {
+    "language": "Tamil",
+    "country": "India"
+  },
+  "te-IN": {
+    "language": "Telugu",
+    "country": "India"
+  },
+  "th-TH": {
+    "language": "Thai",
+    "country": "Thailand"
+  },
+  "tr-TR": {
+    "language": "Turkish",
+    "country": "Turkey"
+  },
+  "uk-UA": {
+    "language": "Ukrainian",
+    "country": "Ukraine"
+  },
+  "ur-IN": {
+    "language": "Urdu",
+    "country": "India"
+  },
+  "uz-UZ": {
+    "language": "Uzbek",
+    "country": "Uzbekistan"
+  },
+  "vi-VN": {
+    "language": "Vietnamese",
+    "country": "Vietnam"
+  },
+  "wuu-CN": {
+    "language": "Wu, Simplified",
+    "country": "China"
+  },
+  "yue-CN": {
+    "language": "Cantonese, Simplified",
+    "country": "China"
+  },
+  "zh-CN": {
+    "language": "Mandarin, Simplified",
+    "country": "China"
+  },
+  "zh-CN-shandong": {
+    "language": "Jilu Mandarin, Simplified",
+    "country": "China"
+  },
+  "zh-CN-sichuan": {
+    "language": "Southwestern Mandarin, Simplified",
+    "country": "China"
+  },
+  "zh-HK": {
+    "language": "Cantonese, Traditional",
+    "country": "Hong Kong SAR"
+  },
+  "zh-TW": {
+    "language": "Taiwanese Mandarin, Traditional",
+    "country": "Taiwan"
+  },
+  "zu-ZA": {
+    "language": "Zulu",
+    "country": "South Africa"
+  }
+}
