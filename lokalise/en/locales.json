@@ -67,6 +67,10 @@
     "language": "Arabic",
     "country": "Saudi Arabia"
   },
+  "ar-SD": {
+    "language": "Arabic",
+    "country": "Sudan"
+  },
   "ar-SY": {
     "language": "Arabic",
     "country": "Syria"
@@ -86,6 +90,10 @@
   "bg-BG": {
     "language": "Bulgarian",
     "country": "Bulgaria"
+  },
+  "bn-BD": {
+    "language": "Bengali",
+    "country": "Bangladesh"
   },
   "bn-IN": {
     "language": "Bengali",
@@ -115,6 +123,10 @@
     "language": "German",
     "country": "Austria"
   },
+  "de-BE": {
+    "language": "German",
+    "country": "Belgium"
+  },
   "de-CH": {
     "language": "German",
     "country": "Switzerland"
@@ -131,17 +143,69 @@
     "language": "German",
     "country": "Luxembourg"
   },
+  "el-CY": {
+    "language": "Greek",
+    "country": "Cyprus"
+  },
   "el-GR": {
     "language": "Greek",
     "country": "Greece"
+  },
+  "en-AS": {
+    "language": "English",
+    "country": "American Samoa"
   },
   "en-AU": {
     "language": "English",
     "country": "Australia"
   },
+  "en-BB": {
+    "language": "English",
+    "country": "Barbados"
+  },
+  "en-BE": {
+    "language": "English",
+    "country": "Belgium"
+  },
+  "en-BM": {
+    "language": "English",
+    "country": "Bermuda"
+  },
+  "en-BR": {
+    "language": "English",
+    "country": "Brazil"
+  },
+  "en-BW": {
+    "language": "English",
+    "country": "Botswana"
+  },
+  "en-BZ": {
+    "language": "English",
+    "country": "Belize"
+  },
   "en-CA": {
     "language": "English",
     "country": "Canada"
+  },
+  "en-DE": {
+    "language": "English",
+    "country": "Germany"
+  },
+  "en-DK": {
+    "language": "English",
+    "country": "Denmark"
+  },
+  "en-FI": {
+    "language": "English",
+    "country": "Finland"
+  },
+  "en-FJ": {
+    "language": "English",
+    "country": "Fiji"
+  },
+  "en-FR": {
+    "language": "English",
+    "country": "France"
   },
   "en-GB": {
     "language": "English",
@@ -151,6 +215,22 @@
     "language": "English",
     "country": "Ghana"
   },
+  "en-GI": {
+    "language": "English",
+    "country": "Gibraltar"
+  },
+  "en-GM": {
+    "language": "English",
+    "country": "Gambia"
+  },
+  "en-GU": {
+    "language": "English",
+    "country": "Guam"
+  },
+  "en-GY": {
+    "language": "English",
+    "country": "Guyana"
+  },
   "en-HK": {
     "language": "English",
     "country": "Hong Kong SAR"
@@ -159,17 +239,89 @@
     "language": "English",
     "country": "Ireland"
   },
+  "en-ID": {
+    "language": "English",
+    "country": "Indonesia"
+  },
+  "en-IL": {
+    "language": "English",
+    "country": "Israel"
+  },
+  "en-IT": {
+    "language": "English",
+    "country": "Italy"
+  },
   "en-IN": {
     "language": "English",
     "country": "India"
+  },
+  "en-JM": {
+    "language": "English",
+    "country": "Jamaica"
+  },
+  "en-JP": {
+    "language": "English",
+    "country": "Japan"
   },
   "en-KE": {
     "language": "English",
     "country": "Kenya"
   },
+  "en-KR": {
+    "language": "English",
+    "country": "South Korea"
+  },
+  "en-LU": {
+    "language": "English",
+    "country": "Luxembourg"
+  },
+  "en-MH": {
+    "language": "English",
+    "country": "Marshall Islands"
+  },
+  "en-MO": {
+    "language": "English",
+    "country": "Macao SAR"
+  },
+  "en-MP": {
+    "language": "English",
+    "country": "Northern Mariana Islands"
+  },
+  "en-MT": {
+    "language": "English",
+    "country": "Malta"
+  },
+  "en-MU": {
+    "language": "English",
+    "country": "Mauritius"
+  },
+  "en-MW": {
+    "language": "English",
+    "country": "Malawi"
+  },
+  "en-MX": {
+    "language": "English",
+    "country": "Mexico"
+  },
+  "en-MY": {
+    "language": "English",
+    "country": "Malaysia"
+  },
+  "en-NA": {
+    "language": "English",
+    "country": "Namibia"
+  },
   "en-NG": {
     "language": "English",
     "country": "Nigeria"
+  },
+  "en-NL": {
+    "language": "English",
+    "country": "Netherlands"
+  },
+  "en-NO": {
+    "language": "English",
+    "country": "Norway"
   },
   "en-NZ": {
     "language": "English",
@@ -178,6 +330,18 @@
   "en-PH": {
     "language": "English",
     "country": "Philippines"
+  },
+  "en-PK": {
+    "language": "English",
+    "country": "Pakistan"
+  },
+  "en-PR": {
+    "language": "English",
+    "country": "Puerto Rico"
+  },
+  "en-RO": {
+    "language": "English",
+    "country": "Romania"
   },
   "en-SG": {
     "language": "English",
@@ -291,6 +455,10 @@
     "language": "Basque",
     "country": "Spain"
   },
+  "fa-AF": {
+    "language": "Persian",
+    "country": "Afghanistan"
+  },
   "fa-IR": {
     "language": "Persian",
     "country": "Iran"
@@ -307,17 +475,149 @@
     "language": "French",
     "country": "Belgium"
   },
+  "fr-BI": {
+    "language": "French",
+    "country": "Burundi"
+  },
+  "fr-BJ": {
+    "language": "French",
+    "country": "Benin"
+  },
+  "fr-BF": {
+    "language": "French",
+    "country": "Burkina Faso"
+  },
+  "fr-BL": {
+    "language": "French",
+    "country": "Saint Barthélemy"
+  },
   "fr-CA": {
     "language": "French",
     "country": "Canada"
+  },
+  "fr-CD": {
+    "language": "French",
+    "country": "Democratic Republic of the Congo"
+  },
+  "fr-CF": {
+    "language": "French",
+    "country": "Central African Republic"
+  },
+  "fr-CG": {
+    "language": "French",
+    "country": "Republic of the Congo"
   },
   "fr-CH": {
     "language": "French",
     "country": "Switzerland"
   },
+  "fr-CI": {
+    "language": "French",
+    "country": "Côte d'Ivoire"
+  },
+  "fr-CM": {
+    "language": "French",
+    "country": "Cameroon"
+  },
+  "fr-DJ": {
+    "language": "French",
+    "country": "Djibouti"
+  },
   "fr-FR": {
     "language": "French",
     "country": "France"
+  },
+  "fr-GA": {
+    "language": "French",
+    "country": "Gabon"
+  },
+  "fr-GF": {
+    "language": "French",
+    "country": "French Guiana"
+  },
+  "fr-GN": {
+    "language": "French",
+    "country": "Guinea"
+  },
+  "fr-GP": {
+    "language": "French",
+    "country": "Guadeloupe"
+  },
+  "fr-GQ": {
+    "language": "French",
+    "country": "Equatorial Guinea"
+  },
+  "fr-HT": {
+    "language": "French",
+    "country": "Haiti"
+  },
+  "fr-KM": {
+    "language": "French",
+    "country": "Comoros"
+  },
+  "fr-LU": {
+    "language": "French",
+    "country": "Luxembourg"
+  },
+  "fr-MA": {
+    "language": "French",
+    "country": "Morocco"
+  },
+  "fr-MC": {
+    "language": "French",
+    "country": "Monaco"
+  },
+  "fr-MF": {
+    "language": "French",
+    "country": "Saint Martin"
+  },
+  "fr-MG": {
+    "language": "French",
+    "country": "Madagascar"
+  },
+  "fr-ML": {
+    "language": "French",
+    "country": "Mali"
+  },
+  "fr-MQ": {
+    "language": "French",
+    "country": "Martinique"
+  },
+  "fr-MR": {
+    "language": "French",
+    "country": "Mauritania"
+  },
+  "fr-NE": {
+    "language": "French",
+    "country": "Niger"
+  },
+  "fr-RE": {
+    "language": "French",
+    "country": "Réunion"
+  },
+  "fr-RW": {
+    "language": "French",
+    "country": "Rwanda"
+  },
+  "fr-SN": {
+    "language": "French",
+    "country": "Senegal"
+  },
+  "fr-TD": {
+    "language": "French",
+    "country": "Chad"
+  },
+  "fr-TG": {
+    "language": "French",
+    "country": "Togo"
+  },
+  "fr-YT": {
+    "language": "French",
+    "country": "Mayotte"
+  },
+  "ga-GB": {
+    "language": "Irish",
+    "country": "United Kingdom"
   },
   "ga-IE": {
     "language": "Irish",
@@ -423,9 +723,17 @@
     "language": "Marathi",
     "country": "India"
   },
+  "ms-BN": {
+    "language": "Malay",
+    "country": "Brunei"
+  },
   "ms-MY": {
     "language": "Malay",
     "country": "Malaysia"
+  },
+  "ms-SG": {
+    "language": "Malay",
+    "country": "Singapore"
   },
   "mt-MT": {
     "language": "Maltese",
@@ -443,13 +751,33 @@
     "language": "Nepali",
     "country": "Nepal"
   },
+  "nl-AW": {
+    "language": "Dutch",
+    "country": "Aruba"
+  },
   "nl-BE": {
     "language": "Dutch",
     "country": "Belgium"
   },
+  "nl-CW": {
+    "language": "Dutch",
+    "country": "Curaçao"
+  },
+  "nl-LU": {
+    "language": "Dutch",
+    "country": "Liechtenstein"
+  },
   "nl-NL": {
     "language": "Dutch",
     "country": "Netherlands"
+  },
+  "nl-SR": {
+    "language": "Dutch",
+    "country": "Suriname"
+  },
+  "nl-SX": {
+    "language": "Dutch",
+    "country": "Sint Maarten"
   },
   "pa-IN": {
     "language": "Punjabi",
@@ -498,6 +826,10 @@
   "sq-AL": {
     "language": "Albanian",
     "country": "Albania"
+  },
+  "sr-BA": {
+    "language": "Serbian",
+    "country": "Bosnia and Herzegovina"
   },
   "sr-RS": {
     "language": "Serbian",
