@@ -1,0 +1,914 @@
+{
+    "af-ZA": {
+        "language": "",
+        "country": ""
+    },
+    "am-ET": {
+        "language": "",
+        "country": ""
+    },
+    "ar-AE": {
+        "language": "",
+        "country": ""
+    },
+    "ar-BH": {
+        "language": "",
+        "country": ""
+    },
+    "ar-DZ": {
+        "language": "",
+        "country": ""
+    },
+    "ar-EG": {
+        "language": "",
+        "country": ""
+    },
+    "ar-IL": {
+        "language": "",
+        "country": ""
+    },
+    "ar-IQ": {
+        "language": "",
+        "country": ""
+    },
+    "ar-JO": {
+        "language": "",
+        "country": ""
+    },
+    "ar-KW": {
+        "language": "",
+        "country": ""
+    },
+    "ar-LB": {
+        "language": "",
+        "country": ""
+    },
+    "ar-LY": {
+        "language": "",
+        "country": ""
+    },
+    "ar-MA": {
+        "language": "",
+        "country": ""
+    },
+    "ar-OM": {
+        "language": "",
+        "country": ""
+    },
+    "ar-PS": {
+        "language": "",
+        "country": ""
+    },
+    "ar-QA": {
+        "language": "",
+        "country": ""
+    },
+    "ar-SA": {
+        "language": "",
+        "country": ""
+    },
+    "ar-SY": {
+        "language": "",
+        "country": ""
+    },
+    "ar-TN": {
+        "language": "",
+        "country": ""
+    },
+    "ar-YE": {
+        "language": "",
+        "country": ""
+    },
+    "az-AZ": {
+        "language": "",
+        "country": ""
+    },
+    "bg-BG": {
+        "language": "",
+        "country": ""
+    },
+    "bn-IN": {
+        "language": "",
+        "country": ""
+    },
+    "bs-BA": {
+        "language": "",
+        "country": ""
+    },
+    "ca-ES": {
+        "language": "",
+        "country": ""
+    },
+    "cs-CZ": {
+        "language": "",
+        "country": ""
+    },
+    "cy-GB": {
+        "language": "",
+        "country": ""
+    },
+    "da-DK": {
+        "language": "",
+        "country": ""
+    },
+    "de-AT": {
+        "language": "",
+        "country": ""
+    },
+    "de-CH": {
+        "language": "",
+        "country": ""
+    },
+    "de-DE": {
+        "language": "",
+        "country": ""
+    },
+    "de-LI": {
+        "language": "",
+        "country": ""
+    },
+    "de-LU": {
+        "language": "",
+        "country": ""
+    },
+    "el-GR": {
+        "language": "",
+        "country": ""
+    },
+    "en-AU": {
+        "language": "",
+        "country": ""
+    },
+    "en-CA": {
+        "language": "",
+        "country": ""
+    },
+    "en-GB": {
+        "language": "",
+        "country": ""
+    },
+    "en-GH": {
+        "language": "",
+        "country": ""
+    },
+    "en-HK": {
+        "language": "",
+        "country": ""
+    },
+    "en-IE": {
+        "language": "",
+        "country": ""
+    },
+    "en-IN": {
+        "language": "",
+        "country": ""
+    },
+    "en-KE": {
+        "language": "",
+        "country": ""
+    },
+    "en-NG": {
+        "language": "",
+        "country": ""
+    },
+    "en-NZ": {
+        "language": "",
+        "country": ""
+    },
+    "en-PH": {
+        "language": "",
+        "country": ""
+    },
+    "en-SG": {
+        "language": "",
+        "country": ""
+    },
+    "en-TZ": {
+        "language": "",
+        "country": ""
+    },
+    "en-US": {
+        "language": "",
+        "country": ""
+    },
+    "en-ZA": {
+        "language": "",
+        "country": ""
+    },
+    "es-AR": {
+        "language": "",
+        "country": ""
+    },
+    "es-BO": {
+        "language": "",
+        "country": ""
+    },
+    "es-CL": {
+        "language": "",
+        "country": ""
+    },
+    "es-CO": {
+        "language": "",
+        "country": ""
+    },
+    "es-CR": {
+        "language": "",
+        "country": ""
+    },
+    "es-CU": {
+        "language": "",
+        "country": ""
+    },
+    "es-DO": {
+        "language": "",
+        "country": ""
+    },
+    "es-EC": {
+        "language": "",
+        "country": ""
+    },
+    "es-ES": {
+        "language": "",
+        "country": ""
+    },
+    "es-GQ": {
+        "language": "",
+        "country": ""
+    },
+    "es-GT": {
+        "language": "",
+        "country": ""
+    },
+    "es-HN": {
+        "language": "",
+        "country": ""
+    },
+    "es-MX": {
+        "language": "",
+        "country": ""
+    },
+    "es-NI": {
+        "language": "",
+        "country": ""
+    },
+    "es-PA": {
+        "language": "",
+        "country": ""
+    },
+    "es-PE": {
+        "language": "",
+        "country": ""
+    },
+    "es-PR": {
+        "language": "",
+        "country": ""
+    },
+    "es-PY": {
+        "language": "",
+        "country": ""
+    },
+    "es-SV": {
+        "language": "",
+        "country": ""
+    },
+    "es-US": {
+        "language": "",
+        "country": ""
+    },
+    "es-UY": {
+        "language": "",
+        "country": ""
+    },
+    "es-VE": {
+        "language": "",
+        "country": ""
+    },
+    "et-EE": {
+        "language": "",
+        "country": ""
+    },
+    "eu-ES": {
+        "language": "",
+        "country": ""
+    },
+    "fa-IR": {
+        "language": "",
+        "country": ""
+    },
+    "fi-FI": {
+        "language": "",
+        "country": ""
+    },
+    "fil-PH": {
+        "language": "",
+        "country": ""
+    },
+    "fr-BE": {
+        "language": "",
+        "country": ""
+    },
+    "fr-CA": {
+        "language": "",
+        "country": ""
+    },
+    "fr-CH": {
+        "language": "",
+        "country": ""
+    },
+    "fr-FR": {
+        "language": "",
+        "country": ""
+    },
+    "ga-IE": {
+        "language": "",
+        "country": ""
+    },
+    "gl-ES": {
+        "language": "",
+        "country": ""
+    },
+    "gu-IN": {
+        "language": "",
+        "country": ""
+    },
+    "he-IL": {
+        "language": "",
+        "country": ""
+    },
+    "hi-IN": {
+        "language": "",
+        "country": ""
+    },
+    "hr-HR": {
+        "language": "",
+        "country": ""
+    },
+    "hu-HU": {
+        "language": "",
+        "country": ""
+    },
+    "hy-AM": {
+        "language": "",
+        "country": ""
+    },
+    "id-ID": {
+        "language": "",
+        "country": ""
+    },
+    "is-IS": {
+        "language": "",
+        "country": ""
+    },
+    "it-CH": {
+        "language": "",
+        "country": ""
+    },
+    "it-IT": {
+        "language": "",
+        "country": ""
+    },
+    "ja-JP": {
+        "language": "",
+        "country": ""
+    },
+    "jv-ID": {
+        "language": "",
+        "country": ""
+    },
+    "ka-GE": {
+        "language": "",
+        "country": ""
+    },
+    "kk-KZ": {
+        "language": "",
+        "country": ""
+    },
+    "km-KH": {
+        "language": "",
+        "country": ""
+    },
+    "kn-IN": {
+        "language": "",
+        "country": ""
+    },
+    "ko-KR": {
+        "language": "",
+        "country": ""
+    },
+    "lo-LA": {
+        "language": "",
+        "country": ""
+    },
+    "lt-LT": {
+        "language": "",
+        "country": ""
+    },
+    "lv-LV": {
+        "language": "",
+        "country": ""
+    },
+    "mk-MK": {
+        "language": "",
+        "country": ""
+    },
+    "ml-IN": {
+        "language": "",
+        "country": ""
+    },
+    "mn-MN": {
+        "language": "",
+        "country": ""
+    },
+    "mr-IN": {
+        "language": "",
+        "country": ""
+    },
+    "ms-MY": {
+        "language": "",
+        "country": ""
+    },
+    "mt-MT": {
+        "language": "",
+        "country": ""
+    },
+    "my-MM": {
+        "language": "",
+        "country": ""
+    },
+    "nb-NO": {
+        "language": "",
+        "country": ""
+    },
+    "ne-NP": {
+        "language": "",
+        "country": ""
+    },
+    "nl-BE": {
+        "language": "",
+        "country": ""
+    },
+    "nl-NL": {
+        "language": "",
+        "country": ""
+    },
+    "pa-IN": {
+        "language": "",
+        "country": ""
+    },
+    "pl-PL": {
+        "language": "",
+        "country": ""
+    },
+    "ps-AF": {
+        "language": "",
+        "country": ""
+    },
+    "pt-BR": {
+        "language": "",
+        "country": ""
+    },
+    "pt-PT": {
+        "language": "",
+        "country": ""
+    },
+    "ro-RO": {
+        "language": "",
+        "country": ""
+    },
+    "ru-RU": {
+        "language": "",
+        "country": ""
+    },
+    "si-LK": {
+        "language": "",
+        "country": ""
+    },
+    "sk-SK": {
+        "language": "",
+        "country": ""
+    },
+    "sl-SI": {
+        "language": "",
+        "country": ""
+    },
+    "so-SO": {
+        "language": "",
+        "country": ""
+    },
+    "sq-AL": {
+        "language": "",
+        "country": ""
+    },
+    "sr-RS": {
+        "language": "",
+        "country": ""
+    },
+    "sv-SE": {
+        "language": "",
+        "country": ""
+    },
+    "sw-KE": {
+        "language": "",
+        "country": ""
+    },
+    "sw-TZ": {
+        "language": "",
+        "country": ""
+    },
+    "ta-IN": {
+        "language": "",
+        "country": ""
+    },
+    "te-IN": {
+        "language": "",
+        "country": ""
+    },
+    "th-TH": {
+        "language": "",
+        "country": ""
+    },
+    "tr-TR": {
+        "language": "",
+        "country": ""
+    },
+    "uk-UA": {
+        "language": "",
+        "country": ""
+    },
+    "ur-IN": {
+        "language": "",
+        "country": ""
+    },
+    "uz-UZ": {
+        "language": "",
+        "country": ""
+    },
+    "vi-VN": {
+        "language": "",
+        "country": ""
+    },
+    "wuu-CN": {
+        "language": "",
+        "country": ""
+    },
+    "yue-CN": {
+        "language": "",
+        "country": ""
+    },
+    "zh-CN": {
+        "language": "",
+        "country": ""
+    },
+    "zh-CN-shandong": {
+        "language": "",
+        "country": ""
+    },
+    "zh-CN-sichuan": {
+        "language": "",
+        "country": ""
+    },
+    "zh-HK": {
+        "language": "",
+        "country": ""
+    },
+    "zh-TW": {
+        "language": "",
+        "country": ""
+    },
+    "zu-ZA": {
+        "language": "",
+        "country": "جنوب أفريقيا"
+    },
+    "ar-SD": {
+        "language": "",
+        "country": ""
+    },
+    "bn-BD": {
+        "language": "",
+        "country": ""
+    },
+    "de-BE": {
+        "language": "",
+        "country": ""
+    },
+    "el-CY": {
+        "language": "",
+        "country": ""
+    },
+    "en-AS": {
+        "language": "",
+        "country": ""
+    },
+    "en-BB": {
+        "language": "",
+        "country": ""
+    },
+    "en-BE": {
+        "language": "",
+        "country": ""
+    },
+    "en-BM": {
+        "language": "",
+        "country": ""
+    },
+    "en-BR": {
+        "language": "",
+        "country": ""
+    },
+    "en-BW": {
+        "language": "",
+        "country": ""
+    },
+    "en-BZ": {
+        "language": "",
+        "country": ""
+    },
+    "en-DE": {
+        "language": "",
+        "country": ""
+    },
+    "en-DK": {
+        "language": "",
+        "country": ""
+    },
+    "en-FI": {
+        "language": "",
+        "country": ""
+    },
+    "en-FJ": {
+        "language": "",
+        "country": ""
+    },
+    "en-FR": {
+        "language": "",
+        "country": ""
+    },
+    "en-GI": {
+        "language": "",
+        "country": ""
+    },
+    "en-GM": {
+        "language": "",
+        "country": ""
+    },
+    "en-GU": {
+        "language": "",
+        "country": ""
+    },
+    "en-GY": {
+        "language": "",
+        "country": ""
+    },
+    "en-ID": {
+        "language": "",
+        "country": ""
+    },
+    "en-IL": {
+        "language": "",
+        "country": ""
+    },
+    "en-IT": {
+        "language": "",
+        "country": ""
+    },
+    "en-JM": {
+        "language": "",
+        "country": ""
+    },
+    "en-JP": {
+        "language": "",
+        "country": ""
+    },
+    "en-KR": {
+        "language": "",
+        "country": ""
+    },
+    "en-LU": {
+        "language": "",
+        "country": ""
+    },
+    "en-MH": {
+        "language": "",
+        "country": ""
+    },
+    "en-MO": {
+        "language": "",
+        "country": ""
+    },
+    "en-MP": {
+        "language": "",
+        "country": ""
+    },
+    "en-MT": {
+        "language": "",
+        "country": ""
+    },
+    "en-MU": {
+        "language": "",
+        "country": ""
+    },
+    "en-MW": {
+        "language": "",
+        "country": ""
+    },
+    "en-MX": {
+        "language": "",
+        "country": ""
+    },
+    "en-MY": {
+        "language": "",
+        "country": ""
+    },
+    "en-NA": {
+        "language": "",
+        "country": ""
+    },
+    "en-NL": {
+        "language": "",
+        "country": ""
+    },
+    "en-NO": {
+        "language": "",
+        "country": ""
+    },
+    "en-PK": {
+        "language": "",
+        "country": ""
+    },
+    "en-PR": {
+        "language": "",
+        "country": ""
+    },
+    "en-RO": {
+        "language": "",
+        "country": ""
+    },
+    "fa-AF": {
+        "language": "",
+        "country": ""
+    },
+    "fr-BI": {
+        "language": "",
+        "country": ""
+    },
+    "fr-BJ": {
+        "language": "",
+        "country": ""
+    },
+    "fr-BF": {
+        "language": "",
+        "country": ""
+    },
+    "fr-BL": {
+        "language": "",
+        "country": ""
+    },
+    "fr-CD": {
+        "language": "",
+        "country": ""
+    },
+    "fr-CF": {
+        "language": "",
+        "country": ""
+    },
+    "fr-CG": {
+        "language": "",
+        "country": ""
+    },
+    "fr-CI": {
+        "language": "",
+        "country": ""
+    },
+    "fr-CM": {
+        "language": "",
+        "country": ""
+    },
+    "fr-DJ": {
+        "language": "",
+        "country": ""
+    },
+    "fr-GA": {
+        "language": "",
+        "country": ""
+    },
+    "fr-GF": {
+        "language": "",
+        "country": ""
+    },
+    "fr-GN": {
+        "language": "",
+        "country": ""
+    },
+    "fr-GP": {
+        "language": "",
+        "country": ""
+    },
+    "fr-GQ": {
+        "language": "",
+        "country": ""
+    },
+    "fr-HT": {
+        "language": "",
+        "country": ""
+    },
+    "fr-KM": {
+        "language": "",
+        "country": ""
+    },
+    "fr-LU": {
+        "language": "",
+        "country": ""
+    },
+    "fr-MA": {
+        "language": "",
+        "country": ""
+    },
+    "fr-MC": {
+        "language": "",
+        "country": ""
+    },
+    "fr-MF": {
+        "language": "",
+        "country": ""
+    },
+    "fr-MG": {
+        "language": "",
+        "country": ""
+    },
+    "fr-ML": {
+        "language": "",
+        "country": ""
+    },
+    "fr-MQ": {
+        "language": "",
+        "country": ""
+    },
+    "fr-MR": {
+        "language": "",
+        "country": ""
+    },
+    "fr-NE": {
+        "language": "",
+        "country": ""
+    },
+    "fr-RE": {
+        "language": "",
+        "country": ""
+    },
+    "fr-RW": {
+        "language": "",
+        "country": ""
+    },
+    "fr-SN": {
+        "language": "",
+        "country": ""
+    },
+    "fr-TD": {
+        "language": "",
+        "country": ""
+    },
+    "fr-TG": {
+        "language": "",
+        "country": ""
+    },
+    "fr-YT": {
+        "language": "",
+        "country": ""
+    },
+    "ga-GB": {
+        "language": "",
+        "country": ""
+    },
+    "ms-BN": {
+        "language": "",
+        "country": ""
+    },
+    "ms-SG": {
+        "language": "",
+        "country": ""
+    },
+    "nl-AW": {
+        "language": "",
+        "country": ""
+    },
+    "nl-CW": {
+        "language": "",
+        "country": ""
+    },
+    "nl-LU": {
+        "language": "",
+        "country": ""
+    },
+    "nl-SR": {
+        "language": "",
+        "country": ""
+    },
+    "nl-SX": {
+        "language": "",
+        "country": ""
+    },
+    "sr-BA": {
+        "language": "",
+        "country": ""
+    }
+}

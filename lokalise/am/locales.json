@@ -1,0 +1,914 @@
+{
+    "af-ZA": {
+        "language": "",
+        "country": ""
+    },
+    "am-ET": {
+        "language": "",
+        "country": ""
+    },
+    "ar-AE": {
+        "language": "",
+        "country": ""
+    },
+    "ar-BH": {
+        "language": "",
+        "country": ""
+    },
+    "ar-DZ": {
+        "language": "",
+        "country": ""
+    },
+    "ar-EG": {
+        "language": "",
+        "country": ""
+    },
+    "ar-IL": {
+        "language": "",
+        "country": ""
+    },
+    "ar-IQ": {
+        "language": "",
+        "country": ""
+    },
+    "ar-JO": {
+        "language": "",
+        "country": ""
+    },
+    "ar-KW": {
+        "language": "",
+        "country": ""
+    },
+    "ar-LB": {
+        "language": "",
+        "country": ""
+    },
+    "ar-LY": {
+        "language": "",
+        "country": ""
+    },
+    "ar-MA": {
+        "language": "",
+        "country": ""
+    },
+    "ar-OM": {
+        "language": "",
+        "country": ""
+    },
+    "ar-PS": {
+        "language": "",
+        "country": ""
+    },
+    "ar-QA": {
+        "language": "",
+        "country": ""
+    },
+    "ar-SA": {
+        "language": "",
+        "country": ""
+    },
+    "ar-SY": {
+        "language": "",
+        "country": ""
+    },
+    "ar-TN": {
+        "language": "",
+        "country": "ቱንዚያ"
+    },
+    "ar-YE": {
+        "language": "አረብኛ",
+        "country": "የመን"
+    },
+    "az-AZ": {
+        "language": "አዘርባጃን",
+        "country": "አዘርባጃን"
+    },
+    "bg-BG": {
+        "language": "ቡልጋርያኛ",
+        "country": "ቡልጋሪያ"
+    },
+    "bn-IN": {
+        "language": "ቤንጋሊ",
+        "country": "ሕንድ"
+    },
+    "bs-BA": {
+        "language": "ቦስንያኛ",
+        "country": "ቦስኒያ እና ሔርዞጎቪኒያ"
+    },
+    "ca-ES": {
+        "language": "ካታሊያን",
+        "country": "ስፔን"
+    },
+    "cs-CZ": {
+        "language": "ቼክኛ",
+        "country": "ቼኪያ"
+    },
+    "cy-GB": {
+        "language": "ዌልሽ",
+        "country": "ዩናይትድ ኪንግደም"
+    },
+    "da-DK": {
+        "language": "ዳኒሽ",
+        "country": "ዴንማሪክ"
+    },
+    "de-AT": {
+        "language": "ጀርመንኛ",
+        "country": "ኦስትሪያ"
+    },
+    "de-CH": {
+        "language": "ጀርመንኛ",
+        "country": ""
+    },
+    "de-DE": {
+        "language": "",
+        "country": ""
+    },
+    "de-LI": {
+        "language": "",
+        "country": ""
+    },
+    "de-LU": {
+        "language": "",
+        "country": "ሉዘምቤርግ"
+    },
+    "el-GR": {
+        "language": "ግሪክኛ",
+        "country": "ግሪክ"
+    },
+    "en-AU": {
+        "language": "እንግሊዝኛ",
+        "country": "አውስትራሊያ"
+    },
+    "en-CA": {
+        "language": "እንግሊዝኛ",
+        "country": "ካናዳ"
+    },
+    "en-GB": {
+        "language": "እንግሊዝኛ",
+        "country": "ዩናይትድ ኪንግደም"
+    },
+    "en-GH": {
+        "language": "እንግሊዝኛ",
+        "country": "ጋና"
+    },
+    "en-HK": {
+        "language": "እንግሊዝኛ",
+        "country": "የሆንግ ኮንግ SAR"
+    },
+    "en-IE": {
+        "language": "እንግሊዝኛ",
+        "country": "አይርላድ"
+    },
+    "en-IN": {
+        "language": "እንግሊዝኛ",
+        "country": "ሕንድ"
+    },
+    "en-KE": {
+        "language": "እንግሊዝኛ",
+        "country": "ኬንያ"
+    },
+    "en-NG": {
+        "language": "እንግሊዝኛ",
+        "country": "ናይጄሪያ"
+    },
+    "en-NZ": {
+        "language": "እንግሊዝኛ",
+        "country": "ኒውዚላንድ"
+    },
+    "en-PH": {
+        "language": "እንግሊዝኛ",
+        "country": "ፊሊፒንስ"
+    },
+    "en-SG": {
+        "language": "እንግሊዝኛ",
+        "country": "ስንጋፖር"
+    },
+    "en-TZ": {
+        "language": "እንግሊዝኛ",
+        "country": "ታንዛኒያ"
+    },
+    "en-US": {
+        "language": "እንግሊዝኛ",
+        "country": "ዩናይትድ ስቴትስ"
+    },
+    "en-ZA": {
+        "language": "እንግሊዝኛ",
+        "country": "ደቡብ አፍሪካ"
+    },
+    "es-AR": {
+        "language": "ስፓኒሽኛ",
+        "country": "አርጀንቲና"
+    },
+    "es-BO": {
+        "language": "ስፓኒሽኛ",
+        "country": "ቦሊቪያ"
+    },
+    "es-CL": {
+        "language": "ስፓኒሽኛ",
+        "country": "ቺሊ"
+    },
+    "es-CO": {
+        "language": "ስፓኒሽኛ",
+        "country": "ኮሎምቢያ"
+    },
+    "es-CR": {
+        "language": "ስፓኒሽኛ",
+        "country": "ኮስታ ሪካ"
+    },
+    "es-CU": {
+        "language": "ስፓኒሽኛ",
+        "country": "ኩባ"
+    },
+    "es-DO": {
+        "language": "ስፓኒሽኛ",
+        "country": "ዶሚኒካን ሪፐብሊክ"
+    },
+    "es-EC": {
+        "language": "ስፓኒሽኛ",
+        "country": "ኢኳዶር"
+    },
+    "es-ES": {
+        "language": "ስፓኒሽኛ",
+        "country": "ስፔን"
+    },
+    "es-GQ": {
+        "language": "ስፓኒሽኛ",
+        "country": "ኢኳቶሪያል ጊኒ"
+    },
+    "es-GT": {
+        "language": "ስፓኒሽኛ",
+        "country": "ጓቴማላ"
+    },
+    "es-HN": {
+        "language": "ስፓኒሽኛ",
+        "country": "ሆንዱራስ"
+    },
+    "es-MX": {
+        "language": "ስፓኒሽኛ",
+        "country": "ሜክስኮ"
+    },
+    "es-NI": {
+        "language": "ስፓኒሽኛ",
+        "country": "ኒካራጓ"
+    },
+    "es-PA": {
+        "language": "ስፓኒሽኛ",
+        "country": "ፓናማ"
+    },
+    "es-PE": {
+        "language": "ስፓኒሽኛ",
+        "country": "ፔሩ"
+    },
+    "es-PR": {
+        "language": "ስፓኒሽኛ",
+        "country": "ፑኤርቶ ሪኮ"
+    },
+    "es-PY": {
+        "language": "ስፓኒሽኛ",
+        "country": "ፓራጓይ"
+    },
+    "es-SV": {
+        "language": "ስፓኒሽኛ",
+        "country": "ኤልሳልቫዶር"
+    },
+    "es-US": {
+        "language": "ስፓኒሽኛ",
+        "country": "ዩናይትድ ስቴትስ"
+    },
+    "es-UY": {
+        "language": "ስፓኒሽኛ",
+        "country": "ኡራጋይ"
+    },
+    "es-VE": {
+        "language": "ስፓኒሽኛ",
+        "country": "ቬንዙላ"
+    },
+    "et-EE": {
+        "language": "ኢስቶኒያኛ",
+        "country": "ኢስቶኒያ"
+    },
+    "eu-ES": {
+        "language": "ባስክኛ",
+        "country": "ስፔን"
+    },
+    "fa-IR": {
+        "language": "ፐርሽያኛ",
+        "country": "ኢራን"
+    },
+    "fi-FI": {
+        "language": "ፊኒሽ",
+        "country": "ፊኒላንድ"
+    },
+    "fil-PH": {
+        "language": "ፊሊፒንስኛ",
+        "country": "ፊሊፒንስ"
+    },
+    "fr-BE": {
+        "language": "ፈረንሳይኛ",
+        "country": "ቤልጄም"
+    },
+    "fr-CA": {
+        "language": "ፈረንሳይኛ",
+        "country": "ካናዳ"
+    },
+    "fr-CH": {
+        "language": "ፈረንሳይኛ",
+        "country": "ስዊዘሪላንድ"
+    },
+    "fr-FR": {
+        "language": "ፈረንሳይኛ",
+        "country": "ፈረንሳይ"
+    },
+    "ga-IE": {
+        "language": "አይሪሽ",
+        "country": "አይርላድ"
+    },
+    "gl-ES": {
+        "language": "ጋላሺያን",
+        "country": "ስፔን"
+    },
+    "gu-IN": {
+        "language": "ጉጅራቲ",
+        "country": "ሕንድ"
+    },
+    "he-IL": {
+        "language": "ሂብሩ",
+        "country": "እስራኤል"
+    },
+    "hi-IN": {
+        "language": "ሂንዲ",
+        "country": "ሕንድ"
+    },
+    "hr-HR": {
+        "language": "ክሮኤሽያኛ",
+        "country": "ክሮሽያ"
+    },
+    "hu-HU": {
+        "language": "ሃንጋሪያን",
+        "country": "ሃንጋሪ"
+    },
+    "hy-AM": {
+        "language": "አርመንያኛ",
+        "country": "አርሜኒያ"
+    },
+    "id-ID": {
+        "language": "ኢንዶኔዥያን",
+        "country": ""
+    },
+    "is-IS": {
+        "language": "",
+        "country": ""
+    },
+    "it-CH": {
+        "language": "",
+        "country": ""
+    },
+    "it-IT": {
+        "language": "",
+        "country": ""
+    },
+    "ja-JP": {
+        "language": "",
+        "country": ""
+    },
+    "jv-ID": {
+        "language": "",
+        "country": ""
+    },
+    "ka-GE": {
+        "language": "",
+        "country": ""
+    },
+    "kk-KZ": {
+        "language": "",
+        "country": ""
+    },
+    "km-KH": {
+        "language": "",
+        "country": ""
+    },
+    "kn-IN": {
+        "language": "",
+        "country": ""
+    },
+    "ko-KR": {
+        "language": "",
+        "country": ""
+    },
+    "lo-LA": {
+        "language": "",
+        "country": "ላኦስ"
+    },
+    "lt-LT": {
+        "language": "ሊቱኒያኛ",
+        "country": "ሊቱአኒያ"
+    },
+    "lv-LV": {
+        "language": "ላትቪያኛ",
+        "country": "ላቲቪያ"
+    },
+    "mk-MK": {
+        "language": "ማስዶንያን",
+        "country": "ሰሜን መቄዶኒያ"
+    },
+    "ml-IN": {
+        "language": "ማላያላምኛ",
+        "country": "ሕንድ"
+    },
+    "mn-MN": {
+        "language": "ሞኒጎሊያኛ",
+        "country": "ሞንጎሊያ"
+    },
+    "mr-IN": {
+        "language": "ማራቲ",
+        "country": "ሕንድ"
+    },
+    "ms-MY": {
+        "language": "ማላይኛ",
+        "country": "ማሌዥያ"
+    },
+    "mt-MT": {
+        "language": "ማልትስኛ",
+        "country": "ማልታ"
+    },
+    "my-MM": {
+        "language": "በርሚስ",
+        "country": "ማይንማር"
+    },
+    "nb-NO": {
+        "language": "የኖርዌይ ቦክማል",
+        "country": "ኖርዌይ"
+    },
+    "ne-NP": {
+        "language": "ኔፓሊ",
+        "country": "ኔፓል"
+    },
+    "nl-BE": {
+        "language": "ደች",
+        "country": "ቤልጄም"
+    },
+    "nl-NL": {
+        "language": "ደች",
+        "country": "ኔዜሪላንድ"
+    },
+    "pa-IN": {
+        "language": "ፑንጃቢ ቋንቋ",
+        "country": "ሕንድ"
+    },
+    "pl-PL": {
+        "language": "ፖላንድኛ",
+        "country": "ፖላንድ"
+    },
+    "ps-AF": {
+        "language": "ፓሽቶ",
+        "country": "አፍጋኒስታን"
+    },
+    "pt-BR": {
+        "language": "ፖርቹጋልኛ",
+        "country": "ብራዚል"
+    },
+    "pt-PT": {
+        "language": "ፖርቹጋልኛ",
+        "country": "ፖርቹጋል"
+    },
+    "ro-RO": {
+        "language": "ሮማንያኛ",
+        "country": "ሮማኒያ"
+    },
+    "ru-RU": {
+        "language": "ሩሲያኛ",
+        "country": "ሩሲያ"
+    },
+    "si-LK": {
+        "language": "ሲንሃላ",
+        "country": "ስሪ ላንካ"
+    },
+    "sk-SK": {
+        "language": "ስሎቫክኛ",
+        "country": "ስሎቫኪያ"
+    },
+    "sl-SI": {
+        "language": "ስሎቬንያኛ",
+        "country": "ስሎቫኒያ"
+    },
+    "so-SO": {
+        "language": "ሶማሌ",
+        "country": "ሶማሊያ"
+    },
+    "sq-AL": {
+        "language": "አልበንያኛ",
+        "country": "አልባኒያ"
+    },
+    "sr-RS": {
+        "language": "ሰሪቢያኛ",
+        "country": "ሰርቢያ"
+    },
+    "sv-SE": {
+        "language": "ስዊድንኛ",
+        "country": "ስዊዲን"
+    },
+    "sw-KE": {
+        "language": "ስዋሕሊ",
+        "country": "ኬንያ"
+    },
+    "sw-TZ": {
+        "language": "ስዋሕሊ",
+        "country": "ታንዛኒያ"
+    },
+    "ta-IN": {
+        "language": "ታሚል ቋንቋ",
+        "country": "ሕንድ"
+    },
+    "te-IN": {
+        "language": "ተሉጉ ቋንቋ",
+        "country": "ሕንድ"
+    },
+    "th-TH": {
+        "language": "ታይ ቋንቋ",
+        "country": "ታይላንድ"
+    },
+    "tr-TR": {
+        "language": "ቱርክኛ",
+        "country": "ቱሪክ"
+    },
+    "uk-UA": {
+        "language": "ዩክሬንኛ",
+        "country": "ዩክሬን"
+    },
+    "ur-IN": {
+        "language": "ኡርዱ",
+        "country": "ሕንድ"
+    },
+    "uz-UZ": {
+        "language": "ኡዝቤክ",
+        "country": "ኡዝቤክስታን"
+    },
+    "vi-VN": {
+        "language": "ቬትናምኛ",
+        "country": "ቪትናም"
+    },
+    "wuu-CN": {
+        "language": "ማንዳሪን፣ ቀለል ያለ",
+        "country": "ቻይና"
+    },
+    "yue-CN": {
+        "language": "ማንዳሪን፣ ቀለል ያለ",
+        "country": "ቻይና"
+    },
+    "zh-CN": {
+        "language": "ማንዳሪን፣ ቀለል ያለ",
+        "country": "ቻይና"
+    },
+    "zh-CN-shandong": {
+        "language": "ጂሉ ማንዳሪን ፣ ቀለል ያለ",
+        "country": "ቻይና"
+    },
+    "zh-CN-sichuan": {
+        "language": "ደቡብ ምዕራብ ማንዳሪን፣ ቀለል ያለ",
+        "country": "ቻይና"
+    },
+    "zh-HK": {
+        "language": "ካንቶኒዝ ፣ ባህላዊ",
+        "country": "የሆንግ ኮንግ SAR"
+    },
+    "zh-TW": {
+        "language": "የታይዋን ማንዳሪን ፣ ባህላዊ",
+        "country": "ታይዋን"
+    },
+    "zu-ZA": {
+        "language": "ዙሉ",
+        "country": "ደቡብ አፍሪካ"
+    },
+    "ar-SD": {
+        "language": "",
+        "country": ""
+    },
+    "bn-BD": {
+        "language": "",
+        "country": ""
+    },
+    "de-BE": {
+        "language": "",
+        "country": ""
+    },
+    "el-CY": {
+        "language": "",
+        "country": ""
+    },
+    "en-AS": {
+        "language": "",
+        "country": ""
+    },
+    "en-BB": {
+        "language": "",
+        "country": ""
+    },
+    "en-BE": {
+        "language": "",
+        "country": ""
+    },
+    "en-BM": {
+        "language": "",
+        "country": ""
+    },
+    "en-BR": {
+        "language": "",
+        "country": ""
+    },
+    "en-BW": {
+        "language": "",
+        "country": ""
+    },
+    "en-BZ": {
+        "language": "",
+        "country": ""
+    },
+    "en-DE": {
+        "language": "",
+        "country": ""
+    },
+    "en-DK": {
+        "language": "",
+        "country": ""
+    },
+    "en-FI": {
+        "language": "",
+        "country": ""
+    },
+    "en-FJ": {
+        "language": "",
+        "country": ""
+    },
+    "en-FR": {
+        "language": "",
+        "country": ""
+    },
+    "en-GI": {
+        "language": "",
+        "country": ""
+    },
+    "en-GM": {
+        "language": "",
+        "country": ""
+    },
+    "en-GU": {
+        "language": "",
+        "country": ""
+    },
+    "en-GY": {
+        "language": "",
+        "country": ""
+    },
+    "en-ID": {
+        "language": "",
+        "country": ""
+    },
+    "en-IL": {
+        "language": "",
+        "country": ""
+    },
+    "en-IT": {
+        "language": "",
+        "country": ""
+    },
+    "en-JM": {
+        "language": "",
+        "country": ""
+    },
+    "en-JP": {
+        "language": "",
+        "country": ""
+    },
+    "en-KR": {
+        "language": "",
+        "country": ""
+    },
+    "en-LU": {
+        "language": "",
+        "country": ""
+    },
+    "en-MH": {
+        "language": "",
+        "country": ""
+    },
+    "en-MO": {
+        "language": "",
+        "country": ""
+    },
+    "en-MP": {
+        "language": "",
+        "country": ""
+    },
+    "en-MT": {
+        "language": "",
+        "country": ""
+    },
+    "en-MU": {
+        "language": "",
+        "country": ""
+    },
+    "en-MW": {
+        "language": "",
+        "country": ""
+    },
+    "en-MX": {
+        "language": "",
+        "country": ""
+    },
+    "en-MY": {
+        "language": "",
+        "country": ""
+    },
+    "en-NA": {
+        "language": "",
+        "country": ""
+    },
+    "en-NL": {
+        "language": "",
+        "country": ""
+    },
+    "en-NO": {
+        "language": "",
+        "country": ""
+    },
+    "en-PK": {
+        "language": "",
+        "country": ""
+    },
+    "en-PR": {
+        "language": "",
+        "country": ""
+    },
+    "en-RO": {
+        "language": "",
+        "country": ""
+    },
+    "fa-AF": {
+        "language": "",
+        "country": ""
+    },
+    "fr-BI": {
+        "language": "",
+        "country": ""
+    },
+    "fr-BJ": {
+        "language": "",
+        "country": ""
+    },
+    "fr-BF": {
+        "language": "",
+        "country": ""
+    },
+    "fr-BL": {
+        "language": "",
+        "country": ""
+    },
+    "fr-CD": {
+        "language": "",
+        "country": ""
+    },
+    "fr-CF": {
+        "language": "",
+        "country": ""
+    },
+    "fr-CG": {
+        "language": "",
+        "country": ""
+    },
+    "fr-CI": {
+        "language": "",
+        "country": ""
+    },
+    "fr-CM": {
+        "language": "",
+        "country": ""
+    },
+    "fr-DJ": {
+        "language": "",
+        "country": ""
+    },
+    "fr-GA": {
+        "language": "",
+        "country": ""
+    },
+    "fr-GF": {
+        "language": "",
+        "country": ""
+    },
+    "fr-GN": {
+        "language": "",
+        "country": ""
+    },
+    "fr-GP": {
+        "language": "",
+        "country": ""
+    },
+    "fr-GQ": {
+        "language": "",
+        "country": ""
+    },
+    "fr-HT": {
+        "language": "",
+        "country": ""
+    },
+    "fr-KM": {
+        "language": "",
+        "country": ""
+    },
+    "fr-LU": {
+        "language": "",
+        "country": ""
+    },
+    "fr-MA": {
+        "language": "",
+        "country": ""
+    },
+    "fr-MC": {
+        "language": "",
+        "country": ""
+    },
+    "fr-MF": {
+        "language": "",
+        "country": ""
+    },
+    "fr-MG": {
+        "language": "",
+        "country": ""
+    },
+    "fr-ML": {
+        "language": "",
+        "country": ""
+    },
+    "fr-MQ": {
+        "language": "",
+        "country": ""
+    },
+    "fr-MR": {
+        "language": "",
+        "country": ""
+    },
+    "fr-NE": {
+        "language": "",
+        "country": ""
+    },
+    "fr-RE": {
+        "language": "",
+        "country": ""
+    },
+    "fr-RW": {
+        "language": "",
+        "country": ""
+    },
+    "fr-SN": {
+        "language": "",
+        "country": ""
+    },
+    "fr-TD": {
+        "language": "",
+        "country": ""
+    },
+    "fr-TG": {
+        "language": "",
+        "country": ""
+    },
+    "fr-YT": {
+        "language": "",
+        "country": ""
+    },
+    "ga-GB": {
+        "language": "",
+        "country": ""
+    },
+    "ms-BN": {
+        "language": "",
+        "country": ""
+    },
+    "ms-SG": {
+        "language": "",
+        "country": ""
+    },
+    "nl-AW": {
+        "language": "",
+        "country": ""
+    },
+    "nl-CW": {
+        "language": "",
+        "country": ""
+    },
+    "nl-LU": {
+        "language": "",
+        "country": ""
+    },
+    "nl-SR": {
+        "language": "",
+        "country": ""
+    },
+    "nl-SX": {
+        "language": "",
+        "country": ""
+    },
+    "sr-BA": {
+        "language": "",
+        "country": ""
+    }
+}
