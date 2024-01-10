@@ -99,6 +99,14 @@
     "language": "Bengali",
     "country": "India"
   },
+  "bo-CN": {
+    "language": "Tibetan",
+    "country": "China"
+  },
+  "bo-IN": {
+    "language": "Tibetan",
+    "country": "India"
+  },
   "bs-BA": {
     "language": "Bosnian",
     "country": "Bosnia and Herzegovina"
@@ -779,9 +787,25 @@
     "language": "Dutch",
     "country": "Sint Maarten"
   },
+  "pa-Arab": {
+    "language": "Punjabi",
+    "country": "Arabic Script"
+  },
+  "pa-Arab-PK": {
+    "language": "Punjabi",
+    "country": "Pakistan"
+  },
+  "pa-Guru": {
+    "language": "Punjabi",
+    "country": "Gurmukhi Script"
+  },
   "pa-IN": {
     "language": "Punjabi",
     "country": "India"
+  },
+  "pa-PK": {
+    "language": "Punjabi",
+    "country": "Pakistan"
   },
   "pl-PL": {
     "language": "Polish",
@@ -791,21 +815,81 @@
     "language": "Pashto",
     "country": "Afghanistan"
   },
+  "pt-AO": {
+    "language": "Portuguese",
+    "country": "Angola"
+  },
   "pt-BR": {
     "language": "Portuguese",
     "country": "Brazil"
+  },
+  "pt-CV": {
+    "language": "Portuguese",
+    "country": "Cape Verde"
+  },
+  "pt-GW": {
+    "language": "Portuguese",
+    "country": "Guinea-Bissau"
+  },
+  "pt-MO": {
+    "language": "Portuguese",
+    "country": "Macao SAR"
+  },
+  "pt-MZ": {
+    "language": "Portuguese",
+    "country": "Mozambique"
   },
   "pt-PT": {
     "language": "Portuguese",
     "country": "Portugal"
   },
+  "pt-ST": {
+    "language": "Portuguese",
+    "country": "São Tomé and Príncipe"
+  },
+  "pt-TL": {
+    "language": "Portuguese",
+    "country": "Timor-Leste"
+  },
+  "ro-MD": {
+    "language": "Romanian",
+    "country": "Moldova"
+  },
   "ro-RO": {
     "language": "Romanian",
     "country": "Romania"
   },
+  "ru-AZ": {
+    "language": "Russian",
+    "country": "Azerbaijan"
+  },
+  "ru-BY": {
+    "language": "Russian",
+    "country": "Belarus"
+  },
+  "ru-IL": {
+    "language": "Russian",
+    "country": "Israel"
+  },
+  "ru-KG": {
+    "language": "Russian",
+    "country": "Kyrgyzstan"
+  },
+  "ru-KZ": {
+    "language": "Russian",
+    "country": "Kazakhstan"
+  },
+  "ru-MD": {
+    "language": "Russian",
+    "country": "Moldova"
+  },
   "ru-RU": {
     "language": "Russian",
     "country": "Russia"
+  },
+  "ru-UA": {
+    "language": "Russian",
+    "country": "Ukraine"
   },
   "si-LK": {
     "language": "Sinhala",
@@ -819,9 +903,29 @@
     "language": "Slovenian",
     "country": "Slovenia"
   },
+  "so-DJ": {
+    "language": "Somali",
+    "country": "Djibouti"
+  },
+  "so-ET": {
+    "language": "Somali",
+    "country": "Ethiopia"
+  },
+  "so-KE": {
+    "language": "Somali",
+    "country": "Kenya"
+  },
   "so-SO": {
     "language": "Somali",
     "country": "Somalia"
+  },
+  "so-SS": {
+    "language": "Somali",
+    "country": "South Sudan"
+  },
+  "so-TZ": {
+    "language": "Somali",
+    "country": "Tanzania"
   },
   "sq-AL": {
     "language": "Albanian",
@@ -831,9 +935,25 @@
     "language": "Serbian",
     "country": "Bosnia and Herzegovina"
   },
-  "sr-RS": {
-    "language": "Serbian",
+  "sr-Latn-ME": {
+    "language": "Serbian (Latin)",
+    "country": "Montenegro"
+  },
+  "sr-Cyrl-RS": {
+    "language": "Serbian (Cyrillic)",
     "country": "Serbia"
+  },
+  "sr-Latn-RS": {
+    "language": "Serbian (Latin)",
+    "country": "Serbia"
+  },
+  "ss-SZ": {
+    "language": "Swati",
+    "country": "Eswatini"
+  },
+  "sv-FI": {
+    "language": "Swedish",
+    "country": "Finland"
   },
   "sv-SE": {
     "language": "Swedish",
@@ -850,6 +970,14 @@
   "ta-IN": {
     "language": "Tamil",
     "country": "India"
+  },
+  "ta-LK": {
+    "language": "Tamil",
+    "country": "Sri Lanka"
+  },
+  "ta-SG": {
+    "language": "Tamil",
+    "country": "Singapore"
   },
   "te-IN": {
     "language": "Telugu",
@@ -870,6 +998,22 @@
   "ur-IN": {
     "language": "Urdu",
     "country": "India"
+  },
+  "ur-PK": {
+    "language": "Urdu",
+    "country": "Pakistan"
+  },
+  "uz-Arab": {
+    "language": "Uzbek",
+    "country": "Arabic Script"
+  },
+  "uz-Arab-AF": {
+    "language": "Uzbek",
+    "country": "Afghanistan"
+  },
+  "uz-Latn-UZ": {
+    "language": "Uzbek (Latin)",
+    "country": "Uzbekistan"
   },
   "uz-UZ": {
     "language": "Uzbek",
@@ -902,6 +1046,18 @@
   "zh-HK": {
     "language": "Cantonese, Traditional",
     "country": "Hong Kong SAR"
+  },
+  "zh-MO": {
+    "language": "Cantonese, Traditional",
+    "country": "Macao SAR"
+  },
+  "zh-MY": {
+    "language": "Mandarin, Simplified",
+    "country": "Malaysia"
+  },
+  "zh-SG": {
+    "language": "Mandarin, Simplified",
+    "country": "Singapore"
   },
   "zh-TW": {
     "language": "Taiwanese Mandarin, Traditional",
